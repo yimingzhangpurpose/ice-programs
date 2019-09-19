@@ -1,0 +1,6 @@
+20190102, ticker F2:XBT\F19 no trade data
+
+20190102, ticker F2:XBT\G19 no trade data
+
+20190102, ticker F2:XBT\H19 no trade data
+

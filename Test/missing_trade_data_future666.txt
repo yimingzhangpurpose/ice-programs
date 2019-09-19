@@ -1,0 +1,338 @@
+20190102, ticker F2:XBT\F19 no trade data
+
+20190102, ticker F2:XBT\G19 no trade data
+
+20190102, ticker F2:XBT\H19 no trade data
+
+20190102, ticker F2:XBT\J19 no trade data
+
+20190103, ticker F2:XBT\F19 no trade data
+
+20190103, ticker F2:XBT\G19 no trade data
+
+20190103, ticker F2:XBT\H19 no trade data
+
+20190103, ticker F2:XBT\J19 no trade data
+
+20190104, ticker F2:XBT\F19 no trade data
+
+20190104, ticker F2:XBT\G19 no trade data
+
+20190104, ticker F2:XBT\H19 no trade data
+
+20190104, ticker F2:XBT\J19 no trade data
+
+20190107, ticker F2:XBT\F19 no trade data
+
+20190107, ticker F2:XBT\G19 no trade data
+
+20190107, ticker F2:XBT\H19 no trade data
+
+20190107, ticker F2:XBT\J19 no trade data
+
+20190108, ticker F2:XBT\F19 no trade data
+
+20190108, ticker F2:XBT\G19 no trade data
+
+20190108, ticker F2:XBT\H19 no trade data
+
+20190108, ticker F2:XBT\J19 no trade data
+
+20190109, ticker F2:XBT\F19 no trade data
+
+20190109, ticker F2:XBT\G19 no trade data
+
+20190109, ticker F2:XBT\H19 no trade data
+
+20190109, ticker F2:XBT\J19 no trade data
+
+20190110, ticker F2:XBT\F19 no trade data
+
+20190110, ticker F2:XBT\G19 no trade data
+
+20190110, ticker F2:XBT\H19 no trade data
+
+20190110, ticker F2:XBT\J19 no trade data
+
+20190111, ticker F2:XBT\F19 no trade data
+
+20190111, ticker F2:XBT\G19 no trade data
+
+20190111, ticker F2:XBT\H19 no trade data
+
+20190111, ticker F2:XBT\J19 no trade data
+
+20190114, ticker F2:XBT\F19 no trade data
+
+20190114, ticker F2:XBT\G19 no trade data
+
+20190114, ticker F2:XBT\H19 no trade data
+
+20190114, ticker F2:XBT\J19 no trade data
+
+20190115, ticker F2:XBT\F19 no trade data
+
+20190115, ticker F2:XBT\G19 no trade data
+
+20190115, ticker F2:XBT\H19 no trade data
+
+20190115, ticker F2:XBT\J19 no trade data
+
+20190116, ticker F2:XBT\F19 no trade data
+
+20190116, ticker F2:XBT\G19 no trade data
+
+20190116, ticker F2:XBT\H19 no trade data
+
+20190116, ticker F2:XBT\J19 no trade data
+
+20190117, ticker F2:XBT\G19 no trade data
+
+20190117, ticker F2:XBT\H19 no trade data
+
+20190117, ticker F2:XBT\J19 no trade data
+
+20190118, ticker F2:XBT\G19 no trade data
+
+20190118, ticker F2:XBT\H19 no trade data
+
+20190118, ticker F2:XBT\J19 no trade data
+
+20190121, ticker F2:XBT\G19 no trade data
+
+20190121, ticker F2:XBT\H19 no trade data
+
+20190121, ticker F2:XBT\J19 no trade data
+
+20190122, ticker F2:XBT\G19 no trade data
+
+20190122, ticker F2:XBT\H19 no trade data
+
+20190122, ticker F2:XBT\J19 no trade data
+
+20190123, ticker F2:XBT\G19 no trade data
+
+20190123, ticker F2:XBT\H19 no trade data
+
+20190123, ticker F2:XBT\J19 no trade data
+
+20190124, ticker F2:XBT\G19 no trade data
+
+20190124, ticker F2:XBT\H19 no trade data
+
+20190124, ticker F2:XBT\J19 no trade data
+
+20190125, ticker F2:XBT\G19 no trade data
+
+20190125, ticker F2:XBT\H19 no trade data
+
+20190125, ticker F2:XBT\J19 no trade data
+
+20190128, ticker F2:XBT\G19 no trade data
+
+20190128, ticker F2:XBT\H19 no trade data
+
+20190128, ticker F2:XBT\J19 no trade data
+
+20190129, ticker F2:XBT\G19 no trade data
+
+20190129, ticker F2:XBT\H19 no trade data
+
+20190129, ticker F2:XBT\J19 no trade data
+
+20190130, ticker F2:XBT\G19 no trade data
+
+20190130, ticker F2:XBT\H19 no trade data
+
+20190130, ticker F2:XBT\J19 no trade data
+
+20190131, ticker F2:XBT\G19 no trade data
+
+20190131, ticker F2:XBT\H19 no trade data
+
+20190131, ticker F2:XBT\J19 no trade data
+
+20190201, ticker F2:XBT\G19 no trade data
+
+20190201, ticker F2:XBT\H19 no trade data
+
+20190201, ticker F2:XBT\J19 no trade data
+
+20190204, ticker F2:XBT\G19 no trade data
+
+20190204, ticker F2:XBT\H19 no trade data
+
+20190204, ticker F2:XBT\J19 no trade data
+
+20190205, ticker F2:XBT\G19 no trade data
+
+20190205, ticker F2:XBT\H19 no trade data
+
+20190205, ticker F2:XBT\J19 no trade data
+
+20190206, ticker F2:XBT\G19 no trade data
+
+20190206, ticker F2:XBT\H19 no trade data
+
+20190206, ticker F2:XBT\J19 no trade data
+
+20190207, ticker F2:XBT\G19 no trade data
+
+20190207, ticker F2:XBT\H19 no trade data
+
+20190207, ticker F2:XBT\J19 no trade data
+
+20190208, ticker F2:XBT\G19 no trade data
+
+20190208, ticker F2:XBT\H19 no trade data
+
+20190208, ticker F2:XBT\J19 no trade data
+
+20190211, ticker F2:XBT\G19 no trade data
+
+20190211, ticker F2:XBT\H19 no trade data
+
+20190211, ticker F2:XBT\J19 no trade data
+
+20190212, ticker F2:XBT\G19 no trade data
+
+20190212, ticker F2:XBT\H19 no trade data
+
+20190212, ticker F2:XBT\J19 no trade data
+
+20190213, ticker F2:XBT\G19 no trade data
+
+20190213, ticker F2:XBT\H19 no trade data
+
+20190213, ticker F2:XBT\J19 no trade data
+
+20190214, ticker F2:XBT\H19 no trade data
+
+20190214, ticker F2:XBT\J19 no trade data
+
+20190215, ticker F2:XBT\H19 no trade data
+
+20190215, ticker F2:XBT\J19 no trade data
+
+20190218, ticker F2:XBT\H19 no trade data
+
+20190218, ticker F2:XBT\J19 no trade data
+
+20190219, ticker F2:XBT\H19 no trade data
+
+20190219, ticker F2:XBT\J19 no trade data
+
+20190220, ticker F2:XBT\H19 no trade data
+
+20190220, ticker F2:XBT\J19 no trade data
+
+20190221, ticker F2:XBT\H19 no trade data
+
+20190221, ticker F2:XBT\J19 no trade data
+
+20190222, ticker F2:XBT\H19 no trade data
+
+20190222, ticker F2:XBT\J19 no trade data
+
+20190225, ticker F2:XBT\H19 no trade data
+
+20190225, ticker F2:XBT\J19 no trade data
+
+20190226, ticker F2:XBT\H19 no trade data
+
+20190226, ticker F2:XBT\J19 no trade data
+
+20190227, ticker F2:XBT\H19 no trade data
+
+20190227, ticker F2:XBT\J19 no trade data
+
+20190228, ticker F2:XBT\H19 no trade data
+
+20190228, ticker F2:XBT\J19 no trade data
+
+20190301, ticker F2:XBT\H19 no trade data
+
+20190301, ticker F2:XBT\J19 no trade data
+
+20190304, ticker F2:XBT\H19 no trade data
+
+20190304, ticker F2:XBT\J19 no trade data
+
+20190305, ticker F2:XBT\H19 no trade data
+
+20190305, ticker F2:XBT\J19 no trade data
+
+20190306, ticker F2:XBT\H19 no trade data
+
+20190306, ticker F2:XBT\J19 no trade data
+
+20190307, ticker F2:XBT\H19 no trade data
+
+20190307, ticker F2:XBT\J19 no trade data
+
+20190308, ticker F2:XBT\H19 no trade data
+
+20190308, ticker F2:XBT\J19 no trade data
+
+20190311, ticker F2:XBT\H19 no trade data
+
+20190311, ticker F2:XBT\J19 no trade data
+
+20190312, ticker F2:XBT\H19 no trade data
+
+20190312, ticker F2:XBT\J19 no trade data
+
+20190313, ticker F2:XBT\H19 no trade data
+
+20190313, ticker F2:XBT\J19 no trade data
+
+20190314, ticker F2:XBT\J19 no trade data
+
+20190315, ticker F2:XBT\J19 no trade data
+
+20190318, ticker F2:XBT\J19 no trade data
+
+20190319, ticker F2:XBT\J19 no trade data
+
+20190320, ticker F2:XBT\J19 no trade data
+
+20190321, ticker F2:XBT\J19 no trade data
+
+20190322, ticker F2:XBT\J19 no trade data
+
+20190325, ticker F2:XBT\J19 no trade data
+
+20190326, ticker F2:XBT\J19 no trade data
+
+20190327, ticker F2:XBT\J19 no trade data
+
+20190328, ticker F2:XBT\J19 no trade data
+
+20190329, ticker F2:XBT\J19 no trade data
+
+20190401, ticker F2:XBT\J19 no trade data
+
+20190402, ticker F2:XBT\J19 no trade data
+
+20190403, ticker F2:XBT\J19 no trade data
+
+20190404, ticker F2:XBT\J19 no trade data
+
+20190405, ticker F2:XBT\J19 no trade data
+
+20190408, ticker F2:XBT\J19 no trade data
+
+20190409, ticker F2:XBT\J19 no trade data
+
+20190410, ticker F2:XBT\J19 no trade data
+
+20190411, ticker F2:XBT\J19 no trade data
+
+20190412, ticker F2:XBT\J19 no trade data
+
+20190415, ticker F2:XBT\J19 no trade data
+
+20190416, ticker F2:XBT\J19 no trade data
+
+20190417, ticker F2:XBT\J19 no trade data
+
